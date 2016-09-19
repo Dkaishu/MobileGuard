@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\Desktop\myRealWork\MobileGuard\mobileguard\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="311c2dd905527f28e55d5bba048fbbf94d043ad9">
+        <dex dex="C:\Users\Administrator\Desktop\myRealWork\MobileGuard\mobileguard\build\intermediates\pre-dexed\debug\instant-run-bootstrap_138d5bb95ebafba3bbaa2b91fcdea89c5e342299.jar" />
+    </item>
+
+</items>

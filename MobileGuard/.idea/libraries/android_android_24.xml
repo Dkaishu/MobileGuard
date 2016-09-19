@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="android-android-24">
+    <CLASSES>
+      <root url="jar://E:/Android/SDK/platforms/android-24/android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://E:/Android/SDK/sources/android-23" />
+    </SOURCES>
+  </library>
+</component>
